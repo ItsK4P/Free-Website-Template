@@ -1,5 +1,7 @@
 # Free-Website-Template
-Free Website Template By Kap.#5619 Easy to use
+Free Website Template By Kap.#5619 
+Easy to use
+Easy to edit
 
 I have used:
 HTML5 for markup
